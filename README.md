@@ -4,7 +4,7 @@
 <h1 align="center">Екатерина Кожемяко </a> 
 <h3 align="center"> Студентка курса Разработчик на C++. </a>   
 
-<img src="https://komarev.com/ghpvc/?username=your-github-Caterinkin&style=flat-square&color=blue" alt=""/>
+</a>  <img src="https://komarev.com/ghpvc/?username=your-github-Caterinkin&style=flat-square&color=blue" alt=""/>
 
 ## Обо мне 
 
