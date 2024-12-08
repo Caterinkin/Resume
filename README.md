@@ -4,7 +4,6 @@
 <h1 align="center">Екатерина Кожемяко </a> 
 <h3 align="center"> Студентка курса Разработчик на C++. </a>   
 
-</a>  <img src="https://komarev.com/ghpvc/?username=your-github-Caterinkin&style=flat-square&color=blue" alt=""/>
 
 ## Обо мне 
 
@@ -23,10 +22,6 @@
 **Увлечения**
 
 В свободное время увлекаюсь фотографией и автомобилями(тюнинг, ремонт, организация встреч автоклубов).
-
-**Cтатистика** 
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Caterinkin)](https://git.io/streak-stats)
 
 Контакты  
  тел. +7 (921) 961-49-25   
