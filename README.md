@@ -1,9 +1,12 @@
-![IMG_2882](https://github.com/user-attachments/assets/6507ab11-fd41-43c6-8873-b4a6c343dd3c)
-# Екатерина Кожемяко
-## Студентка курса Разработчик на C++
+<div id="header" align="center">
+  <img src="https://sun9-36.userapi.com/impg/dDFyWl23Y5Mbreegr2JZSWUtzyirskK1pbUmNg/-k8tpPshhmg.jpg?size=1796x2160&quality=95&sign=2edb12ac55cafdbe3f84a03cb7016f42&type=album" width="150"/>
+</div>
+<h1 align="center">Екатерина Кожемяко </a> 
+<h3 align="center"> Студентка курса Разработчик на C++. </a>   
+
+<img src="https://komarev.com/ghpvc/?username=your-github-Caterinkin&style=flat-square&color=blue" alt=""/>
 
 ## Обо мне 
-
 
 **Образование:**
 
